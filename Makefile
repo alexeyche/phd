@@ -60,7 +60,6 @@ distclean:
 	# these rules might exclude image files for figures etc.
 	# *.ps
 	# *.eps
-	# *.pdf
 
 	## Bibliography auxiliary files (bibtex/biblatex/biber):
 	rm -f *.bbl
