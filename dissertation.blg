@@ -1,0 +1,33 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'dissertation.blg'
+[61] biber:287> INFO - === Пн дек  5, 2016, 07:25:09
+[278] Biber.pm:348> INFO - Reading 'dissertation.bcf'
+[484] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
+[485] Biber.pm:742> INFO - Found 6 citekeys in bib section 1
+[485] Biber.pm:742> INFO - Found 49 citekeys in bib section 0
+[536] Biber.pm:3151> INFO - Processing section 0
+[735] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/othercites.bib' for section 0
+[834] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[901] bibtex.pm:974> INFO - Found BibTeX data source 'biblio/othercites.bib'
+[1832] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorpapersVAK.bib' for section 0
+[1863] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1865] bibtex.pm:974> INFO - Found BibTeX data source 'biblio/authorpapersVAK.bib'
+[1895] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorpapers.bib' for section 0
+[1898] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1900] bibtex.pm:974> INFO - Found BibTeX data source 'biblio/authorpapers.bib'
+[1900] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorconferences.bib' for section 0
+[1903] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1905] bibtex.pm:974> INFO - Found BibTeX data source 'biblio/authorconferences.bib'
+[2373] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2373] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2373] Biber.pm:3028> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'ru-RU'
+[2423] Biber.pm:3151> INFO - Processing section 1
+[2423] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/othercites.bib' for section 1
+[2424] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorpapersVAK.bib' for section 1
+[2463] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorpapers.bib' for section 1
+[2504] Biber.pm:3308> INFO - Looking for bibtex format file 'biblio/authorconferences.bib' for section 1
+[2583] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2583] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2583] Biber.pm:3028> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'ru-RU'
+[2589] bbl.pm:519> INFO - Writing 'dissertation.bbl' with encoding 'UTF-8'
+[2757] bbl.pm:615> INFO - Output to dissertation.bbl

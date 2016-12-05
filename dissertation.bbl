@@ -1,0 +1,1550 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global}
+    \entry{Sokolov}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f634fa77a69696c34f80ab9956b52af0}{%
+           family={Соколов},
+           family_i={С\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           given_i={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=e6c6a08d9e9e5ba7033f3375c0abb5c5}{%
+           family={Сердобинцев},
+           family_i={С\bibinitperiod},
+           given={К.\bibnamedelimi С.},
+           given_i={К\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c9656f404ca140cc7f48615ee117851f}{%
+           family={Бочарова},
+           family_i={Б\bibinitperiod},
+           given={В.\bibnamedelimi М.},
+           given_i={В\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Астрахань}%
+      }
+      \list{publisher}{1}{%
+        {Калиниградский ЮИ МВД России}%
+      }
+      \strng{namehash}{d38a874bca3a32dd834b179953b0a1ec}
+      \strng{fullhash}{d38a874bca3a32dd834b179953b0a1ec}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{218}
+      \field{title}{Гражданское общество: проблемы формирования и развития (философский и юридический аспекты): монография}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Gaidaenko}{book}{}
+      \name{author}{1}{}{%
+        {{hash=faf5d39eec4aa5362db51c4efdbb128a}{%
+           family={Гайдаенко},
+           family_i={Г\bibinitperiod},
+           given={Т.\bibnamedelimi А.},
+           given_i={Т\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Эксмо: МИРБИС}%
+      }
+      \strng{namehash}{faf5d39eec4aa5362db51c4efdbb128a}
+      \strng{fullhash}{faf5d39eec4aa5362db51c4efdbb128a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3-е изд, перераб. и доп.}
+      \field{langid}{russian}
+      \field{pagetotal}{508}
+      \field{title}{Маркетинговое управление: принципы управленческих решений и российская практика}
+      \field{year}{2008}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Lermontov}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dbea65a7a2d8379366e9d24eab1b7410}{%
+           family={Лермонтов},
+           family_i={Л\bibinitperiod},
+           given={Михаил\bibnamedelima Юрьевич},
+           given_i={М\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Терра-Кн. клуб}%
+      }
+      \strng{namehash}{dbea65a7a2d8379366e9d24eab1b7410}
+      \strng{fullhash}{dbea65a7a2d8379366e9d24eab1b7410}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{4 т.}
+      \field{title}{Собрание сочинений: в 4 т.}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Management}{book}{}
+      \list{location}{1}{%
+        {Нижний новгород}%
+      }
+      \list{publisher}{1}{%
+        {Изд-во Нижегородского университета}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{243}
+      \field{title}{Управление бизнесом: сборник статей}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Borozda}{book}{}
+      \name{author}{3}{}{%
+        {{hash=719a1c28eb491896b881e357a9a848dd}{%
+           family={Борозда},
+           family_i={Б\bibinitperiod},
+           given={И.\bibnamedelimi В.},
+           given_i={И\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=b9662ed180fd5e387510215d00e13d2c}{%
+           family={Воронин},
+           family_i={В\bibinitperiod},
+           given={Н.\bibnamedelimi И.},
+           given_i={Н\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=61d2024d7fd9846b573f5f23754dcef0}{%
+           family={В.},
+           family_i={В\bibinitperiod},
+           given={Бушманов\bibnamedelima А.},
+           given_i={Б\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Владивосток}%
+      }
+      \list{publisher}{1}{%
+        {Дальнаука}%
+      }
+      \strng{namehash}{6db168938ea2c734b06a48bd5e7c7438}
+      \strng{fullhash}{6db168938ea2c734b06a48bd5e7c7438}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{195}
+      \field{title}{Лечение сочетанных повреждений таза}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Marketing}{book}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=72084b20a7f74f0fc8eee25b857d2ee5}{%
+           family={Михненков},
+           family_i={М\bibinitperiod},
+           given={О.\bibnamedelimi В.},
+           given_i={О\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=ba61d7cc4d2b50f774915e302e05805a}{%
+           family={Коготкова},
+           family_i={К\bibinitperiod},
+           given={И.\bibnamedelimi З.},
+           given_i={И\bibinitperiod\bibinitdelim З\bibinitperiod}}}%
+        {{hash=eafb3466589616f39739de1cd8cd5ba3}{%
+           family={Генкин},
+           family_i={Г\bibinitperiod},
+           given={Е.\bibnamedelimi В.},
+           given_i={Е\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=044ee7c04af26e950e2d0119bcae0f1a}{%
+           family={Сороко},
+           family_i={С\bibinitperiod},
+           given={Г.\bibnamedelimi Я.},
+           given_i={Г\bibinitperiod\bibinitdelim Я\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Государственный университет управления}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{59}
+      \field{title}{Маркетинговые исследования в строительстве: учебное пособие для студентов специальности «Менеджемент организаций»}
+      \field{year}{2005}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Constitution}{book}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Маркетинг}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{39}
+      \field{title}{Конституция Российской Федерации: офиц. текст.}
+      \field{year}{2001}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{FamilyCode}{book}{}
+      \list{location}{1}{%
+        {СПб.}%
+      }
+      \list{publisher}{1}{%
+        {Стаун-кантри}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{94}
+      \field{title}{Семейный кодекс Российской Федерации: [федер. закон: принят Гос. Думой 8 дек. 1995~г.: по состоянию на 3~янв. 2001~г.]}
+      \field{year}{2001}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Gost.7.0.53}{book}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Стандартинформ}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{5}
+      \field{title}{ГОСТ Р 7.0.53-2007 Система стандартов по информации, библиотечному и издательскому делу. Издания. Международный стандартный книжный номер. Использование и издательское оформление.}
+      \field{year}{2007}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Razumovski}{book}{}
+      \name{author}{2}{}{%
+        {{hash=dc2e9994763140e43d8b36d7660f7943}{%
+           family={Разумовский},
+           family_i={Р\bibinitperiod},
+           given={В.\bibnamedelimi А.},
+           given_i={В\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=2e09e65f692f26806ca40f06a6ac8c9f}{%
+           family={Андреев},
+           family_i={А\bibinitperiod},
+           given={Д.\bibnamedelimi А.},
+           given_i={Д\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{a27d310f4cb1e2530ff9fa4a1dbdf840}
+      \strng{fullhash}{a27d310f4cb1e2530ff9fa4a1dbdf840}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Деп. в ИНИОН Рос. акад. наук 15.02.02, № 139876}
+      \field{pagetotal}{210}
+      \field{title}{Управление маркетинговыми исследованиями в регионе}
+      \field{year}{2002}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Lagkueva}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe454ab338ba963824a4ce675e861204}{%
+           family={Лагкуева},
+           family_i={Л\bibinitperiod},
+           given={Ирина\bibnamedelima Владимировна},
+           given_i={И\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{fe454ab338ba963824a4ce675e861204}
+      \strng{fullhash}{fe454ab338ba963824a4ce675e861204}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{168}
+      \field{title}{Особенности регулирования труда творческих работников театров: дис. ... канд. юрид. наук: 12.00.05}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Pokrovski}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9601f0dc0b406262ff12b539115b6ad4}{%
+           family={Покровский},
+           family_i={П\bibinitperiod},
+           given={Андрей\bibnamedelima Владимирович},
+           given_i={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{9601f0dc0b406262ff12b539115b6ad4}
+      \strng{fullhash}{9601f0dc0b406262ff12b539115b6ad4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{178}
+      \field{title}{Устранимые особенности решений эллиптических уравнений: дис. ... д-ра физ.-мат. наук: 01.01.01}
+      \field{year}{2008}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Sirotko}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b21bcfced3b53eb96747035e5e0c46f8}{%
+           family={Сиротко},
+           family_i={С\bibinitperiod},
+           given={Владимир\bibnamedelima Викторович},
+           given_i={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{b21bcfced3b53eb96747035e5e0c46f8}
+      \strng{fullhash}{b21bcfced3b53eb96747035e5e0c46f8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{26}
+      \field{title}{Медико-социальные аспекты городского травматизма в современных условиях : автореф. дис. ... канд. мед. наук : 14.00.33}
+      \field{year}{2006}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Lukina}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1d129cf1ae39ec244bf210c31f780abf}{%
+           family={Лукина},
+           family_i={Л\bibinitperiod},
+           given={Валентина\bibnamedelima Александровна},
+           given_i={В\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {СПб.}%
+      }
+      \strng{namehash}{1d129cf1ae39ec244bf210c31f780abf}
+      \strng{fullhash}{1d129cf1ae39ec244bf210c31f780abf}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{26}
+      \field{title}{Творческая история «Записок охотника» И. С. Тургенева: автореф. дис. ... канд. филол. наук : 10.01.01}
+      \field{year}{2006}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Methodology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6182cf036cffc113c951bf4245b43d4e}{%
+           family={Загорюев},
+           family_i={З\bibinitperiod},
+           given={А.\bibnamedelimi Л.},
+           given_i={А\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Уральский институт практической психологии}%
+      }
+      \list{location}{1}{%
+        {Екатеринбург}%
+      }
+      \strng{namehash}{6182cf036cffc113c951bf4245b43d4e}
+      \strng{fullhash}{6182cf036cffc113c951bf4245b43d4e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{102}
+      \field{title}{Методология и методы изучения военно-профессиональной направленности подростков: отчёт о НИР}
+      \field{year}{2008}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Encyclopedia}{book}{}
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Большая Рос. энкцикл.}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{1 электрон. опт. диск (CD-ROM)}
+      \field{title}{Художественная энциклопедия зарубежного классического искусства [Электронный ресурс]}
+      \field{year}{1996}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Nasirova}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a722f491a02d144e0abfdc7f3dac369}{%
+           family={Насырова},
+           family_i={Н\bibinitperiod},
+           given={Г.\bibnamedelimi А.},
+           given_i={Г\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a722f491a02d144e0abfdc7f3dac369}
+      \strng{fullhash}{7a722f491a02d144e0abfdc7f3dac369}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Вестник Финансовой академии}
+      \field{langid}{russian}
+      \field{note}{Режим доступа: http://vestnik.fa.ru/4(28)2003/4.html}
+      \field{title}{Модели государственного регулирования страховой деятельности [Электронный ресурс]}
+      \field{year}{2003}
+      \field{number}{4}
+      \range{number}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Berestova}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3871fd2f81b5fd8f10023a81af07f3e1}{%
+           family={Берестова},
+           family_i={Б\bibinitperiod},
+           given={Т.\bibnamedelimi Ф.},
+           given_i={Т\bibinitperiod\bibinitdelim Ф\bibinitperiod}}}%
+      }
+      \strng{namehash}{3871fd2f81b5fd8f10023a81af07f3e1}
+      \strng{fullhash}{3871fd2f81b5fd8f10023a81af07f3e1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Библиография}
+      \field{langid}{russian}
+      \field{title}{Поисковые инструмены библиотеки}
+      \field{year}{2006}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{19}
+      \range{pages}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Kriger}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f0adcc91787bca3a54e721a20237f8bc}{%
+           family={Кригер},
+           family_i={К\bibinitperiod},
+           given={И.},
+           given_i={И\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0adcc91787bca3a54e721a20237f8bc}
+      \strng{fullhash}{f0adcc91787bca3a54e721a20237f8bc}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Новая газета}
+      \field{langid}{russian}
+      \field{note}{1 июля}
+      \field{title}{Бумага терпит}
+      \field{year}{2009}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd086e74be93272cf08edc6ba7a82653}{%
+           family={Adams},
+           family_i={A\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{fullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The name of the journal}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c903f1435ec07d8f88559a7b190d066f}{%
+           family={Babington},
+           family_i={B\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{fullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{3257227892}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{10}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Booklet}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=5db854700cfbfbf21bd9302a8a128bc4}{%
+           family={Caxton},
+           family_i={C\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{fullhash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{How it was published}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Conference}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be0619a2ce36e910a659c155965280f1}{%
+           family={Draper},
+           family_i={D\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30887b93fb89eba22f6ed9b4ed9f8fa0}{%
+           family={editor},
+           family_i={e\bibinitperiod},
+           given={The},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \list{publisher}{1}{%
+        {The publisher}%
+      }
+      \strng{namehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{fullhash}{be0619a2ce36e910a659c155965280f1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The title of the book}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{pages}{213}
+      \range{pages}{1}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Inbook}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=de1e95b2c0f3bb0e4d8610d36401fecd}{%
+           family={Eston},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{fullhash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Book title}
+      \field{chapter}{8}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Incollection}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f0d590104139f103ade7f0e381c16374}{%
+           family={Farindon},
+           family_i={F\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30887b93fb89eba22f6ed9b4ed9f8fa0}{%
+           family={editor},
+           family_i={e\bibinitperiod},
+           given={The},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{f0d590104139f103ade7f0e381c16374}
+      \strng{fullhash}{f0d590104139f103ade7f0e381c16374}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The title of the book}
+      \field{chapter}{8}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Manual}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=e9b5e182bfaf4cee0f27ef67d2ce9817}{%
+           family={Gainsford},
+           family_i={G\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \strng{namehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{fullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Mastersthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cdc7717c68b6161cee2995950006a077}{%
+           family={Harwood},
+           family_i={H\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The school where the thesis was written}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{cdc7717c68b6161cee2995950006a077}
+      \strng{fullhash}{cdc7717c68b6161cee2995950006a077}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{type}{mathesis}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Misc}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0df71d4c388c98e86ca575893d2dc84b}{%
+           family={Isley},
+           family_i={I\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{fullhash}{0df71d4c388c98e86ca575893d2dc84b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{How it was published}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Phdthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=da64d86449dd718132faabded1403d9a}{%
+           family={Joslin},
+           family_i={J\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The school where the thesis was written}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{da64d86449dd718132faabded1403d9a}
+      \strng{fullhash}{da64d86449dd718132faabded1403d9a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{type}{phdthesis}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Proceedings}{proceedings}{}
+      \name{editor}{1}{}{%
+        {{hash=18c29b9ace78576f9bb6ac4e067d4232}{%
+           family={Kidwelly},
+           family_i={K\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Techreport}{report}{}
+      \name{author}{1}{}{%
+        {{hash=a1903e7feca009723d9d4539e706ace0}{%
+           family={Lambert},
+           family_i={L\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The institution that published}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{fullhash}{a1903e7feca009723d9d4539e706ace0}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{type}{techreport}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Unpublished}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=eb89ebe5a95ee2ea9968469e5553fdfc}{%
+           family={Marcheford},
+           family_i={M\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{fullhash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{medvedev2006jelektronnye}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e67b35afb9103be862e65b7f24889f82}{%
+           family={Медведев},
+           family_i={М\bibinitperiod},
+           given={А.\bibnamedelimi М.},
+           given_i={А\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \strng{namehash}{e67b35afb9103be862e65b7f24889f82}
+      \strng{fullhash}{e67b35afb9103be862e65b7f24889f82}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Компоненты и технологии}
+      \field{langid}{russian}
+      \field{media}{eresource}
+      \field{title}{Электронные компоненты и монтажные подложки}
+      \field{urlday}{19}
+      \field{urlmonth}{01}
+      \field{urlyear}{2015}
+      \field{year}{2006}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{124\bibrangedash 134}
+      \range{pages}{11}
+      \verb{url}
+      \verb http://www.kit-e.ru/articles/elcomp/2006%5C_12%5C_124.php
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{CEAT:CEAT581}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bfed42fba32dca889f0c295ee745ad57}{%
+           family={Deiters},
+           family_i={D\bibinitperiod},
+           given={U.\bibnamedelimi K.},
+           given_i={U\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WILEY-VCH Verlag}%
+      }
+      \strng{namehash}{bfed42fba32dca889f0c295ee745ad57}
+      \strng{fullhash}{bfed42fba32dca889f0c295ee745ad57}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering \& Technology}
+      \field{langid}{english}
+      \field{title}{A Modular Program System for the Calculation of Thermodynamic Properties of Fluids}
+      \field{year}{2000}
+      \field{number}{7}
+      \range{number}{1}
+      \field{pages}{581\bibrangedash 584}
+      \range{pages}{4}
+      \field{volume}{23}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/1521-4125(200007)23:7\%3C581::AID-CEAT581\%3E3.0.CO;2-P
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{doi:10.1080/01932691.2010.513279}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=2110306a7b3593d469cae1d3548b2d6b}{%
+           family={Cho},
+           family_i={C\bibinitperiod},
+           given={{\relax\bibnamedelimb Y}oung-{\relax\bibnamedelimb S}ang},
+           given_i={{\relax Y}\bibinithyphendelim {\relax S}\bibinitperiod}}}%
+        {{hash=4b9daef85266b6bda7884cef9a7085d9}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={{\relax\bibnamedelimb Y}oung\bibnamedelima {\relax\bibnamedelimb K}uk},
+           given_i={{\relax Y}\bibinitperiod\bibinitdelim {\relax K}\bibinitperiod}}}%
+        {{hash=07853cc7bd7c92765718bd6c3bf0bc6a}{%
+           family={Chung},
+           family_i={C\bibinitperiod},
+           given={{\relax\bibnamedelimb K}ook\bibnamedelima {\relax\bibnamedelimb C}hae},
+           given_i={{\relax K}\bibinitperiod\bibinitdelim {\relax C}\bibinitperiod}}}%
+        {{hash=4038ee1e24082d856b59b1c9d2afa46d}{%
+           family={Choi},
+           family_i={C\bibinitperiod},
+           given={{\relax\bibnamedelimb C}hul\bibnamedelima {\relax\bibnamedelimb J}in},
+           given_i={{\relax C}\bibinitperiod\bibinitdelim {\relax J}\bibinitperiod}}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Dispersion Science and Technology}
+      \field{langid}{english}
+      \field{title}{Deformation of Colloidal Crystals for Photonic Band Gap Tuning}
+      \field{year}{2011}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{1408\bibrangedash 1415}
+      \range{pages}{8}
+      \field{volume}{32}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1080/01932691.2010.513279
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Gosele1999161}{article}{useauthor=false}
+      \name{author}{9}{}{%
+        {{hash=ae46833b87d250ccbcb1afb571e8c37c}{%
+           family={Gösele},
+           family_i={G\bibinitperiod},
+           given={U.},
+           given_i={U\bibinitperiod}}}%
+        {{hash=6604714c4072db2c508d8e9ec649e517}{%
+           family={Tong},
+           family_i={T\bibinitperiod},
+           given={Q.-Y.},
+           given_i={Q\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=f1d42b845b208ac91bfcd7cba7b27856}{%
+           family={Schumacher},
+           family_i={S\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1189f391a096bab745f428702dea285d}{%
+           family={Kräuter},
+           family_i={K\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+        {{hash=a9a05b4baca71b1d26da65d288352b2e}{%
+           family={Reiche},
+           family_i={R\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=06e1389d0a091db5184fa15f2cff3da1}{%
+           family={Plößl},
+           family_i={P\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=47e7166ef341069c043784a26355c139}{%
+           family={Kopperschmidt},
+           family_i={K\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=c5013fdd8b415211c4e4db85d847443f}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={T.-H.},
+           given_i={T\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=00aa684145d845c7185403d2ad156af1}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={W.-J.},
+           given_i={W\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{langid}{russian}
+      \field{title}{Wafer bonding for microsystems technologies}
+      \field{year}{1999}
+      \field{number}{1\bibrangedash 3}
+      \range{number}{3}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \field{volume}{74}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/S0924-4247(98)00310-0
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Li2007StressAnalysis}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=d474543bef693c56968d1eef4e293111}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={{\relax\bibnamedelimb L}i},
+           given_i={{\relax L}\bibinitperiod}}}%
+        {{hash=88a3325a2dbd398aaa044ccf2c8cc87b}{%
+           family={Guo},
+           family_i={G\bibinitperiod},
+           given={{\relax\bibnamedelimb Y}ifan},
+           given_i={{\relax Y}\bibinitperiod}}}%
+        {{hash=cb3ab07b1a8e9fdb8f3606f0268b4cd5}{%
+           family={Zheng},
+           family_i={Z\bibinitperiod},
+           given={{\relax\bibnamedelimb D}awei},
+           given_i={{\relax D}\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=4d51c3abf9a68103b25e6facabade57e}{%
+           family={Suhir},
+           family_i={S\bibinitperiod},
+           given={E.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=31f371605285d23ee4b9bf6d5baa0a55}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Y.\bibnamedelimi C.},
+           given_i={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=231a41f36f384c910f069891a96ff128}{%
+           family={Wong},
+           family_i={W\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           given_i={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{39b99746fd365ee6f4709849c0c3b3a8}
+      \strng{fullhash}{39b99746fd365ee6f4709849c0c3b3a8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Micro- and Opto-Electronic Materials and Structures: Physics, Mechanics, Design, Reliability, Packaging}
+      \field{isbn}{978-0-387-27974-9}
+      \field{langid}{english}
+      \field{title}{Stress Analysis for Processed Silicon Wafers and Packaged Micro-devices}
+      \field{year}{2007}
+      \field{pages}{B677\bibrangedash B709}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1007/0-387-32989-7\_45
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{Shoji199895}{article}{}
+      \name{author}{3}{}{%
+        {{hash=51eb62188de45d74319f76f2e12cbe59}{%
+           family={Shoji},
+           family_i={S\bibinitperiod},
+           given={{\relax\bibnamedelimb S}huichi},
+           given_i={{\relax S}\bibinitperiod}}}%
+        {{hash=a88a0089b9d89c02d914ec6a52a8ae16}{%
+           family={Kikuchi},
+           family_i={K\bibinitperiod},
+           given={{\relax\bibnamedelimb H}iroto},
+           given_i={{\relax H}\bibinitperiod}}}%
+        {{hash=4bc265ea9789c29a88a867f633ea76f0}{%
+           family={Torigoe},
+           family_i={T\bibinitperiod},
+           given={{\relax\bibnamedelimb H}irotaka},
+           given_i={{\relax H}\bibinitperiod}}}%
+      }
+      \strng{namehash}{13014da48c19c15e521deb4bf702bb56}
+      \strng{fullhash}{13014da48c19c15e521deb4bf702bb56}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{note}{Tenth \{IEEE\} International Workshop on Micro Electro Mechanical Systems}
+      \field{title}{Low-temperature anodic bonding using lithium aluminosilicate-$\beta$-quartz glass ceramic}
+      \field{year}{1998}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{95\bibrangedash 100}
+      \range{pages}{6}
+      \field{volume}{64}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/S0924-4247(97)01659-2
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{test:eisner-sample}{inproceedings}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=e535983cd059fc68f6af7051b5758cc2}{%
+           family={Karakos},
+           family_i={K\bibinitperiod},
+           given={Damianos},
+           given_i={D\bibinitperiod}}}%
+        {{hash=d787f09b6c6cc374a9ad21fe9120fc1f}{%
+           family={Khudanpur},
+           family_i={K\bibinitperiod},
+           given={Sanjeev},
+           given_i={S\bibinitperiod}}}%
+        {{hash=c812a8d4324b6fd9e02dc2f87adc14f4}{%
+           family={Eisner},
+           family_i={E\bibinitperiod},
+           given={Jason},
+           given_i={J\bibinitperiod}}}%
+        {{hash=d73cf8bfbc1c1d8646809e4e4c103776}{%
+           family={Priebe},
+           family_i={P\bibinitperiod},
+           given={Carey\bibnamedelima E.},
+           given_i={C\bibinitperiod}}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ICASSP}
+      \field{title}{Iterative denoising using {J}ensen-{R}enyi divergences with an application to unsupervised document categorization}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://cs.jhu.edu/~jason/papers/%5C#icassp07
+      \endverb
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{AB_patent_Pomerantz_1968}{book}{}
+      \name{author}{1}{}{%
+        {{hash=11f0be7c69020a3a5759925d5094ae0d}{%
+           family={Pomerantz},
+           family_i={P\bibinitperiod},
+           given={D.\bibnamedelimi I.},
+           given_i={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{11f0be7c69020a3a5759925d5094ae0d}
+      \strng{fullhash}{11f0be7c69020a3a5759925d5094ae0d}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Anodic bonding: patent no. 3397278 US}
+      \field{year}{1968}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{iofis_patent1960}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0d54ba50c7d2b2266738fde4868519a7}{%
+           family={Иофис},
+           family_i={И\bibinitperiod},
+           given={Н.\bibnamedelimi А.},
+           given_i={Н\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d54ba50c7d2b2266738fde4868519a7}
+      \strng{fullhash}{0d54ba50c7d2b2266738fde4868519a7}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{Бюл. № 5.~1}
+      \field{title}{Способ пайки керамики с~керамикой и~стекла с~металлом: а.\,с.~126728 СССР}
+      \field{year}{1960}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \keyw{biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{burkitt2006review}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6a4d4668340b0b4cfb9ef8fe9be90d20}{%
+           family={Burkitt},
+           family_i={B\bibinitperiod},
+           given={Anthony\bibnamedelima N},
+           given_i={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6a4d4668340b0b4cfb9ef8fe9be90d20}
+      \strng{fullhash}{6a4d4668340b0b4cfb9ef8fe9be90d20}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological cybernetics}
+      \field{title}{A review of the integrate-and-fire neuron model: I. Homogeneous synaptic input}
+      \field{year}{2006}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{1\bibrangedash 19}
+      \range{pages}{19}
+      \field{volume}{95}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{auto_control_theory}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1bccb1a360f8fccd9cff56c1b0a172a2}{%
+           family={Юревич},
+           family_i={Ю\bibinitperiod},
+           given={Е},
+           given_i={Е\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {БХВ-Петербург}%
+      }
+      \strng{namehash}{1bccb1a360f8fccd9cff56c1b0a172a2}
+      \strng{fullhash}{1bccb1a360f8fccd9cff56c1b0a172a2}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Теория автоматического управления, 4 изд.}
+      \field{year}{2016}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{jain1998fusion}{book}{}
+      \name{author}{2}{}{%
+        {{hash=1a4142e109134c1d317a31396c1dda9f}{%
+           family={Jain},
+           family_i={J\bibinitperiod},
+           given={Lakhmi\bibnamedelima C},
+           given_i={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cc1e990b31595ba60d3f14b307435949}{%
+           family={Martin},
+           family_i={M\bibinitperiod},
+           given={NM},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{d0f1d255306b87cbc5cd87a216a2a0b5}
+      \strng{fullhash}{d0f1d255306b87cbc5cd87a216a2a0b5}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms: Industrial Applications}
+      \field{year}{1998}
+      \field{volume}{4}
+      \range{volume}{1}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{wossermanNeuroComp}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5bee1076792b9586ae972d27d5cb091e}{%
+           family={Уоссермен},
+           family_i={У\bibinitperiod},
+           given={Ф},
+           given_i={Ф\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М.: Мир}%
+      }
+      \strng{namehash}{5bee1076792b9586ae972d27d5cb091e}
+      \strng{fullhash}{5bee1076792b9586ae972d27d5cb091e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Нейрокомпьютерная техника: Теория и практика}
+      \field{year}{1992}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{lillicrap2014random}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=63156804ba3c7a56f191778310c74d4b}{%
+           family={Lillicrap},
+           family_i={L\bibinitperiod},
+           given={Timothy\bibnamedelima P},
+           given_i={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=cc9b655893ed09be9c96f4ecb85f540f}{%
+           family={Cownden},
+           family_i={C\bibinitperiod},
+           given={Daniel},
+           given_i={D\bibinitperiod}}}%
+        {{hash=c631d0dbc38c4503894111857a884fc0}{%
+           family={Tweed},
+           family_i={T\bibinitperiod},
+           given={Douglas\bibnamedelima B},
+           given_i={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2dc3512817fa26a256f8eb3b9f0144bd}{%
+           family={Akerman},
+           family_i={A\bibinitperiod},
+           given={Colin\bibnamedelima J},
+           given_i={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1411.0247}
+      \field{title}{Random feedback weights support learning in deep neural networks}
+      \field{year}{2014}
+      \keyw{biblioother,bibliofull}
+    \endentry
+    \entry{nokland2016direct}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a71a2bc42b573ab73d0a13628cddabe8}{%
+           family={N{ø}kland},
+           family_i={N\bibinitperiod},
+           given={Arild},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a71a2bc42b573ab73d0a13628cddabe8}
+      \strng{fullhash}{a71a2bc42b573ab73d0a13628cddabe8}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1609.01596}
+      \field{title}{Direct Feedback Alignment Provides Learning in Deep Neural Networks}
+      \field{year}{2016}
+      \keyw{biblioother,bibliofull}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{1}
+  \sortlist[entry]{none/global}
+    \entry{bib1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{biblioauthornotvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \keyw{biblioauthornotvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \keyw{biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f32cc2da22b286c938aa024b127c2b8a}{%
+           family={Фамилия},
+           family_i={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           given_i={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{f32cc2da22b286c938aa024b127c2b8a}
+      \strng{fullhash}{f32cc2da22b286c938aa024b127c2b8a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \keyw{biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
